@@ -19,6 +19,11 @@ h2{
     margin-top: 10px;
     text-align: center;
 }
+.img-link p{
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
 .img-link a:hover {
   font-weight: 900;
 }
