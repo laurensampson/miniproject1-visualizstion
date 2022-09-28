@@ -6,7 +6,12 @@ h2{
     background-color: lightgrey;
     font-size: 30px;
     border-radius: 10px;
-    margin-left: 30px;
+}
+h3{
+    background-color: lightgrey;
+    font-size: 30px;
+    border-radius: 10px;
+
 }
 .img-link{
     width: 600px;
